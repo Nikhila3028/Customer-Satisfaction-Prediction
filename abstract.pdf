@@ -100,4 +100,4 @@ Feature engineering is vital for improving model performance. I created several 
 
 - **Estimated Delivery Time**: Difference between estimated delivery date and purchase timestamp.  
 - **Actual Delivery Time**: Difference between actual delivery date and purchase timestamp.  
-- **Delivery Distance**: Distance between seller and customer locations.
+- **Delivery Distance**: Distance between seller and customer locations..
