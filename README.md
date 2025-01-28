@@ -1,6 +1,5 @@
 # Customer-Satisfaction-Prediction
 
-E-commerce-customer-satisfaction-predicton
 Case study on customer review rating prediction using machine learning
 
 E-commerce has become an essential part of our daily lives. It serves as a platform that connects sellers and customers, enabling sellers to offer products and customers to purchase them online. This seamless connection between a large number of sellers and buyers defines the essence of e-commerce. 
