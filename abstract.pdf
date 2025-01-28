@@ -3,7 +3,7 @@ E-commerce Customer Satisfaction Prediction
 
 Table of Contents
 1. Introduction
-2. Business Problem
+2. Business Pro blem
 3. Machine Learning Formulation
 4. Business Constraints
 5. Possible Metrics 6. Data Overview  
@@ -101,3 +101,4 @@ Feature engineering is vital for improving model performance. I created several 
 - **Estimated Delivery Time**: Difference between estimated delivery date and purchase timestamp.  
 - **Actual Delivery Time**: Difference between actual delivery date and purchase timestamp.  
 - **Delivery Distance**: Distance between seller and customer locations.
+
